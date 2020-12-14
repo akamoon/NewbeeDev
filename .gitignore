@@ -1,4 +1,6 @@
 # Visual Studio cache directory
 **/.vs/
 
+# All Debug Directory
 **/Debug/
+**/SimpleGame/Debug/
