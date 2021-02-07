@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 476370403
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2983dc6f8c4a614f7959e10553a116b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0c768f9e5559554de653179a7ecf6e3d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/TestObj3.prefab
+Dependencies:
+- C:/Users/ASUS/Documents/code/AssetBundleManager/AssetBundleManager/Assets/Bundles/prjprefab2
+- C:/Users/ASUS/Documents/code/AssetBundleManager/AssetBundleManager/Assets/Bundles/texture

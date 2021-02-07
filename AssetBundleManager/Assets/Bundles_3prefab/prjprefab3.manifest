@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2325753455
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 669edd20e027ce3099887e645bcc08fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 45b19e38e68e8af5c607bdc267efd7d6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefab/TestObj3.prefab
+Dependencies:
+- C:/Users/ASUS/Documents/code/AssetBundleManager/AssetBundleManager/Assets/Bundles/prjprefab2

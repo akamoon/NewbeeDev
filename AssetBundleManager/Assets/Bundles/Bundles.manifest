@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3110100957
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prjprefab1
+      Dependencies: {}
+    Info_1:
+      Name: prjprefab2
+      Dependencies:
+        Dependency_0: prjprefab1
+    Info_2:
+      Name: prjprefab3
+      Dependencies:
+        Dependency_0: prjprefab1
+        Dependency_1: prjprefab2

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2391334438
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prjprefab1
+      Dependencies:
+        Dependency_0: texture
+    Info_1:
+      Name: prjprefab2
+      Dependencies:
+        Dependency_0: prjprefab1
+        Dependency_1: texture
+    Info_2:
+      Name: prjprefab3
+      Dependencies:
+        Dependency_0: prjprefab2
+        Dependency_1: texture
+    Info_3:
+      Name: texture
+      Dependencies: {}
